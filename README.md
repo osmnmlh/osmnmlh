@@ -82,6 +82,11 @@
 | 🏠 [**room-rent-v3**](https://github.com/osmnmlh/room-rent-v3) | Oda ve konaklama kiralama platformu. | `JavaScript` |
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/osmnmlh/osmnmlh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/osmnmlh/osmnmlh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/osmnmlh/osmnmlh/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=90&section=footer" width="100%" />
