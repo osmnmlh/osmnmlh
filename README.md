@@ -21,9 +21,8 @@
 ### 🚀 About Me
 
 - 🔭 Focusing on **modern Full-Stack architectures**, **scalable backend services**, and **AI integrations**.
-- 🛠️ Building developer-first CLI tools (**Go**), intelligent IoT systems, and high-performance web applications.
-- 🧠 Actively experimenting with AI agents, LLM tool-calling workflows, and distributed cloud services.
-- 💬 Open to discussions about software design patterns, open-source initiatives, or tech collaborations.
+- 🛠️ Building developer-first CLI tools (**Go**), intelligent IoT systems, and high-performance applications.
+- 🧠 Actively experimenting with autonomous AI agents, LLM tool-calling workflows, and distributed systems.
 
 ---
 
@@ -37,6 +36,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -48,7 +49,10 @@
 <br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -57,7 +61,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -69,23 +73,11 @@
 
 ---
 
-### 📈 Activity & Commit Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osmnmlh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Osman's Contribution Graph" />
-</div>
-
----
-
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=osmnmlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osmnmlh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
-
-<br/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=osmnmlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmnmlh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 
 </div>
@@ -97,9 +89,9 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🔍 [**aitrouble**](https://github.com/osmnmlh/aitrouble) | Smart CLI troubleshooter for tracing and diagnosing breakage in AI integrations. | `Go` |
+| 🤖 [**optimus-vacuum-cleaner**](https://github.com/osmnmlh/optimus-vacuum-cleaner) | Autonomous robot vacuum simulation with real-time grid engine, BFS/A* pathfinding & FSM architecture. | `Java` `JavaFX` |
 | 💡 [**smart-campus-adaptive-lighting**](https://github.com/osmnmlh/smart-campus-adaptive-lighting) | Smart campus IoT ecosystem with adaptive and context-aware illumination automation. | `TypeScript` |
 | 🖼️ [**travel-gallery**](https://github.com/osmnmlh/travel-gallery) | Curated interactive travel storytelling and visual gallery experience. | `TypeScript` |
-| 🏠 [**room-rent-v3**](https://github.com/osmnmlh/room-rent-v3) | Modern room rental and property accommodation management platform. | `JavaScript` |
 
 ---
 
