@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=200&section=header&text=Osman%20Melih%20Gümüş&fontSize=38&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Systems%20%26%20Software%20Development&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=200&section=header&text=Osman%20Melih%20G%C3%BCm%C3%BC%C5%9F&fontSize=38&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Systems%20%26%20Software%20Development&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/osmnmlh">
