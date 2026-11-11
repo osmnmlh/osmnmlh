@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=200&section=header&text=Osman%20Melih%20G%C3%BCm%C3%BC%C5%9F&fontSize=38&fontAlignY=38&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Systems%20%26%20Software%20Development&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+# 👨‍💻 Osman Melih Gümüş
+### Computer Engineering Student • Systems & Software Development
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/osmnmlh">
@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Local_AI_Agents-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="Local AI Agents" />
 <img src="https://img.shields.io/badge/Faster--Whisper-FF9900?style=for-the-badge&logoColor=white" alt="Faster-Whisper" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Pathfinding_%26_FSM-2E7D32?style=for-the-badge&logoColor=white" alt="Pathfinding & FSM" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
 
 <br/><br/>
 
@@ -81,10 +81,6 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=osmnmlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=osmnmlh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=osmnmlh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
-
 </div>
 
 ---
@@ -97,11 +93,5 @@
 | 🔍 [**aitrouble**](https://github.com/osmnmlh/aitrouble) | High-speed CLI diagnostics tool built with Go for tracing and isolating breakages in AI integrations. | `Go` `Systems CLI` `Diagnostics` |
 | 🚀 [**teknofest-roket**](https://github.com/osmnmlh/teknofest-roket) | Real-time flight telemetry, sensor data acquisition, and avionics control system for TEKNOFEST rocket competition. | `C++` `Avionics` `Embedded` |
 | 💡 [**smart-campus-adaptive-lighting**](https://github.com/osmnmlh/smart-campus-adaptive-lighting) | Smart campus IoT ecosystem with adaptive and context-aware illumination automation. | `C++` `IoT` `Automation` |
-| 🤖 [**optimus-vacuum-cleaner**](https://github.com/osmnmlh/optimus-vacuum-cleaner) | Autonomous vacuum cleaner simulation featuring real-time grid engine, BFS/A* pathfinding, and FSM architecture. | `Java` `Pathfinding` `FSM` `Simulation` |
+| 🤖 [**optimus-vacuum-cleaner**](https://github.com/osmnmlh/optimus-vacuum-cleaner) | Autonomous robot vacuum simulation featuring real-time grid engine, BFS/A* pathfinding, and FSM architecture. | `Java` `Simulation` `Algorithms` |
 | 🔬 [**BZ309_MICROPROCESSORS**](https://github.com/osmnmlh/BZ309_MICROPROCESSORS) | Microprocessor lab implementations, 8086 Assembly routines, and hardware interface studies. | `Assembly` `Microprocessors` `Computer Architecture` |
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,35,42&height=90&section=footer" width="100%" alt="Footer Banner" />
-</div>
