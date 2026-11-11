@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Osman Melih Gümüş
+#  Osman Melih Gümüş
 ### Computer Engineering Student • Systems & Software Development
 
 <!-- Dynamic Typing SVG -->
