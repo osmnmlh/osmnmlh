@@ -1,7 +1,6 @@
 <div align="center">
 
 #  Osman Melih Gümüş
-### Computer Engineering Student • Systems & Software Development
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/osmnmlh">
